@@ -27,7 +27,9 @@ Python • Raspberry Pi • Stepper Motors • Computer Vision • KiCad
 ---
 
 ### MIDI Keyboard Controller
-Custom embedded MIDI controller built from first principles.
+[MIDI Controller](https://github.com/jay-maroney/midi-controller)
+
+Designed and implemented a MIDI keyboard controller from fundamental hardware and firmware components, including key matrix scanning, velocity sensing circuitry, and USB-MIDI communication.
 
 Focus areas:
 - Key matrix scanning
@@ -41,6 +43,8 @@ Embedded Systems • Microcontrollers • Circuit Design
 ---
 
 ### Dynamical Systems Model of Personal Wealth
+[Financial Dynamics ODE Model](https://github.com/jay-maroney/financial-dynamics-model)
+
 A compartmental ODE model analyzing financial dynamics for recent college graduates.
 
 Key methods:
@@ -49,6 +53,7 @@ Key methods:
 - Numerical simulation of wealth trajectories
 
 Paper available in project repository.
+
 
 ---
 
