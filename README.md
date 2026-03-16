@@ -70,4 +70,4 @@ Optimization • Dynamical Systems • Differential Equations • Linear Algebra
 
 ## Contact
 
-Email: jay_maroney@brown.edu
+Email: jay_maroney@brown.edu or jay.maroney06@gmail.com
